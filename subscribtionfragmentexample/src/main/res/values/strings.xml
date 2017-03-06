@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SubscriptionFragmentExample</string>
+    <string name="subscription_fragment_text">Subscription Fragment</string>
+    <string name="cached_subscription_fragment_text">Cashed Subscription Fragment</string>
+</resources>

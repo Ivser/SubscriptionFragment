@@ -8,7 +8,7 @@ ext {
     bintrayName = 'subscriptionfragment'
     bintrayUserOrg = 'ivser'
 
-    publishedGroupId = 'com.ivser.subsctiptionfragment'
+    publishedGroupId = 'com.ivser.subscriptionfragment'
     libraryName = 'SubscriptionFragment'
     artifact = 'subscriptionfragment'
 

@@ -1,1 +1,1 @@
-include ':subscriptionfragmentexample', ':subsctiptionfragment'
+include ':subscriptionfragmentexample', ':subscriptionfragment'

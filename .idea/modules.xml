@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SubscriptionFragment.iml" filepath="$PROJECT_DIR$/SubscriptionFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscriptionfragment/subscriptionfragment.iml" filepath="$PROJECT_DIR$/subscriptionfragment/subscriptionfragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/subscriptionfragmentexample/subscriptionfragmentexample.iml" filepath="$PROJECT_DIR$/subscriptionfragmentexample/subscriptionfragmentexample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/subsctiptionfragment/subsctiptionfragment.iml" filepath="$PROJECT_DIR$/subsctiptionfragment/subsctiptionfragment.iml" />
     </modules>
   </component>
 </project>

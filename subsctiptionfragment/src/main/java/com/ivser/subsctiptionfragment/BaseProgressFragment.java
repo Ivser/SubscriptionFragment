@@ -29,7 +29,7 @@ public abstract class BaseProgressFragment extends BaseFragment implements Swipe
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         if(view == null) {
-            view = inflater.inflate(R.layout.subscribtion_fragment, null);
+            view = inflater.inflate(R.layout.subscription_fragment, null);
             contentView = inflater.inflate(layoutId, null);
             contentView.setId(R.id.content);
             ((FrameLayout)view).addView(contentView);

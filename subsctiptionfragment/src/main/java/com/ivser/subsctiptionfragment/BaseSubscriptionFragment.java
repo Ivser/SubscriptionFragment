@@ -12,7 +12,7 @@ import rx.Subscription;
  * Created by SIvanov on 06.03.2017.
  */
 
-abstract public class BaseSubscriptionFragment<T> extends BaseProgressFragment implements ISubscribtion<T> {
+abstract public class BaseSubscriptionFragment<T> extends BaseProgressFragment implements ISubscription<T> {
 
     private static final String TAG = BaseSubscriptionFragment.class.getName();
     protected List<Subscription> subscriptions = new ArrayList<>();
